@@ -1,5 +1,4 @@
-import { AppBar, Switch, Toolbar, Tooltip, Typography } from "@mui/material";
-import React from "react";
+import { AppBar, Switch, Toolbar,  Typography } from "@mui/material";
 
 interface Props {
   darkMode: boolean;
